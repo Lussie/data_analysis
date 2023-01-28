@@ -20,7 +20,7 @@ Mini-games: https://github.com/Lussie/Games
 
 - [Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/556f21d35fbf4405bcf8417e0591eee3) (MIT)
 - [Python Programming](https://stepik.org/cert/289662) (Bioinformatics Institute)
-- [Introduction to Databases](https://stepik.org/cert/306505) (Bioinformatics Institute)
+- [Introduction to Databases](https://stepik.org/cert/306505) (HSE University, Computer Science Center)
 - [Basics of Statistics](https://stepik.org/cert/345875) (Bioinformatics Institute)
 
 And some others:
