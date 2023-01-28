@@ -14,6 +14,7 @@ I've found that my two passions are combined in Data Science. I've taken several
 
 - Solved problems on Rosalind: https://rosalind.info/users/Lussie/ </br>
 Rosalind is a platform for learning bioinformatics and programming through problem solving </br>
+Code: available by request
 
 - Mini-games: https://github.com/Lussie/Games </br>
 I used them to practice in Python and algorithms
