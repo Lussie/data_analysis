@@ -6,7 +6,7 @@ Hello, I am Lussie! Currently I live in Berlin. I have great experience in IT an
 
 Math was always my passion. Later I discovered programming. But as a grownup you never had enough time. At some point I decided: now or never.
 
-I've found that my two passions are combined in Data Science. I've taken several courses just to make sure that this is my way. It is. Now I'm studying Statistics and Data Science MicroMasters program online at MIT. I accomplished the first part on Probability with excellent results (96%) and gained a scholarship award. The next part would be Machine Learning with Python: from Linear Models to Deep Learning. It is starting soon.
+I've found that my two passions are combined in Data Science. I've taken several courses just to make sure that this is my way. It is. Now I'm studying Statistics and Data Science MicroMasters program online at MIT. I accomplished the first part on Probability with excellent results (96%) and gained a scholarship award. The next part will be Machine Learning with Python: from Linear Models to Deep Learning. It is starting soon.
 
 [My CV in pdf](https://github.com/Lussie/data_analysis/blob/main/CV%20Liudmila%20Orlova%20Berlin.pdf)
 
