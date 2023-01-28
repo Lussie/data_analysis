@@ -14,6 +14,8 @@ I've taken several courses just to make sure that this is my way. It is. Now I'm
 
 Solved problems on Rosalind (with Python): https://rosalind.info/users/Lussie/
 
+Mini-games: https://github.com/Lussie/Games
+
 ## Certificates
 
 - [Probability - The Science of Uncertainty and Data](https://courses.edx.org/certificates/556f21d35fbf4405bcf8417e0591eee3) (MIT)
