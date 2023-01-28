@@ -12,7 +12,7 @@ I've taken several courses just to make sure that this is my way. It is. Now I'm
 
 ## Studies in Python
 
-Solved problems on Rosalind (with Python): https://rosalind.info/users/Lussie/
+Solved problems on Rosalind: https://rosalind.info/users/Lussie/
 
 Mini-games: https://github.com/Lussie/Games
 
