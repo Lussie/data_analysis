@@ -10,6 +10,8 @@ I've found that my two passions are combined in Data Science. I've taken several
 
 [My CV in pdf](https://github.com/Lussie/data_analysis/blob/main/CV%20Liudmila%20Orlova%20Berlin.pdf)
 
+[My profil on Leetcode](https://leetcode.com/lussieonly/)
+
 ## Studies in Python
 
 - Solved problems on Rosalind: https://rosalind.info/users/Lussie/ </br>
